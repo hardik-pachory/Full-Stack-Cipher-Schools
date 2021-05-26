@@ -1,0 +1,43 @@
+body{
+    background: #0f1122;
+    color: ghostwhite;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.headings{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 50px;
+}
+th{
+    font-size: x-large;
+}
+.imgs{
+    width: 10%;
+    padding: 8px;
+}
+.desc{
+    width: auto;
+    font-size: large;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+table{
+    border-collapse: collapse;
+    color: black;
+    background-color: rgb(189, 238, 234);
+    margin-left: auto;
+    margin-right: auto;
+}
+form>div{
+    text-align: center;
+    padding: 5px;
+}
+.options{
+    text-align: center;
+    padding: 4px;
+}
