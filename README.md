@@ -6,3 +6,8 @@
   <summary>Day 1</summary>
   <p>First day we were taught about basics of HTML5, and also the basic HTML tags were discussed in brief.</p>
 </details>
+<details>
+  <summary>Day 2</summary>
+  <p>On Day 2, we discussed about other HTML tags like table, form, span and div. In between we also learned how files are fetched over internet, about CDNs and other
+  topics also that could help us understand the topic well.</p>
+</details>
