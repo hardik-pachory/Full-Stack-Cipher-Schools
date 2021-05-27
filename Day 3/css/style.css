@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+body{
+    background: #FC5C7D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.login{
+    margin-top: 5%;
+    position: relative;
+    width: 70%;
+    height: 100vh;
+    background-color: whitesmoke;
+    left: 14%;
+    top: 20%;
+}
+.login .bg .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background: black;
+    opacity: 0.4;
+    margin-top: 0;
+
+}
+.login .bg img{
+    position: absolute;
+    margin-top: 0;
+    width: 100%;
+    height: 100vh;
+    filter: blur(3px);
+}
+.login .bg .content{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    color: white;
+    font-size: 25px;
+    font-family: 'OpenSans', sans-serif;
+    font-weight: 300;
+    top: 100;
+}
+.login .forms{
+    position: absolute;
+    left: 10%;
+    top: 35%;
+}
+.login .forms .inp{
+    height: 34px;
+    width: 60%;
+    border: none;
+    padding: 5px;
+    opacity: 0.9;
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+.login .forms .inp:focus{
+    background-color: rgb(207, 182, 207);
+    color: black;
+    border: none;
+    text-decoration: none;
+}
+.submit{
+    margin-top: 20px;
+    border: none;
+    background: #1a2a6c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 8px;
+    height: 34px;
+    width: 63%;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: bolder;
+}
+.submit:hover{
+    transform: scale(1.2);
+    background: #e1eec3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f05053, #e1eec3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f05053, #e1eec3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.already{
+    position: absolute;
+    left: 0%;
+    top: 120%;
+    color: white;
+    font-weight: 600;
+    font-size: large;
+}
+.already .do_reg{
+    color: black;
+}
+.already .reg{
+    background-color: rgb(233, 230, 51);
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+}
+.welcome{
+    font-size: 45px;
+    top: 2%;
+    left: 24%;
+    font-weight: bolder;
+    font-family: 'OpenSans', sans-serif;
+    color:white;
+    position: absolute;
+}
