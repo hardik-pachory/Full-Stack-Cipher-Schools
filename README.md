@@ -17,3 +17,9 @@
   about how to install and use Git-GitHub. And from now on, we all shall be uploading the assignment through GitHub only. We ejnoyed the way we can play with CSS, and
   how GitHub can play vital role in our lives.</p>
 </details>
+<details>
+  <summary>Day 4</summary>
+  <p>On Day 4, we took a deep dive in the magic of CSS. We did styling and it was quite fun. It seemed as if the html page just came to life. We also discussed 
+  about how to install and use Git-GitHub. And from now on, we all shall be uploading the assignment through GitHub only. We ejnoyed the way we can play with CSS, and
+  how GitHub can play vital role in our lives.</p>
+</details>
