@@ -23,3 +23,7 @@
   about how to install and use Git-GitHub. And from now on, we all shall be uploading the assignment through GitHub only. We ejnoyed the way we can play with CSS, and
   how GitHub can play vital role in our lives.</p>
 </details>
+<details>
+  <summary>Countdown Timer</summary>
+  <p>We recieved the instruction for our mini project to make a countdown timer, based on user input.</p>
+</details>
