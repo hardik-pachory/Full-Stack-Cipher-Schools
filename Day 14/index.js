@@ -1,7 +1,5 @@
-//const { default: axios } = require('axios');
 const http = require('http');
 const axios = require('axios')
-const { url } = require('inspector');
 
 const hostname = '127.0.0.1';
 const port = 3000;
